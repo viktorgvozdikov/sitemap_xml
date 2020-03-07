@@ -1,7 +1,7 @@
 {
   "name":"modulebz/sitemap_xml",
   "description": "Генерация sitemap в формате xml",
-  "version": "1.0.0",
+  "version": "1.0",
   "keywords": ["php","sitemap","xml"],
   "homepage": "https://module.bz",
   "license": "MIT",
