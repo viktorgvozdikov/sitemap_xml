@@ -1,0 +1,35 @@
+{
+  "name":"modulebz/sitemap_xml",
+  "description": "Генерация sitemap в формате xml",
+  "version": "1.0.0",
+  "keywords": ["php","sitemap","xml"],
+  "homepage": "https://module.bz",
+  "license": "MIT",
+  "authors" : [
+    {
+      "name": "Viktor Gvozdikov",
+      "homepage": "https://gvozdikov.net/",
+      "email": "victor@gvozdikov.net",
+      "role": "developer"
+    }
+  ],
+  "support": {
+    "email"   : "victor@gvozdikov.net",
+    "issues"  : "https://github.com/viktorgvozdikov/sitemap_xml/issues",
+    "source"  : "https://github.com/viktorgvozdikov/sitemap_xml",
+    "wiki"    : "https://github.com/viktorgvozdikov/sitemap_xml/wiki"
+  },
+  "autoload": {
+    "psr-4": {
+      "ModuleBZ\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "ModuleBZ\\": "src/"
+    }
+  },
+  "require": {
+    "php":">=7.0.0"
+  }
+}
